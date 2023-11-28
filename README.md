@@ -11,6 +11,8 @@ Excel, Tableau
 
 ### **Analysis Results:**
 
+Tableau Public Report: https://public.tableau.com/views/ABCCallVolumeTrendAnalysis/Task2?:language=en-US&:display_count=n&:origin=viz_share_link
+
 1. Average call duration is highest in the morning between 10 to 11 but it is lowest between 12 to 1, might be agents are hanging up early due to midday hunger :)
 
 2. Total number of calls coming in each time bucket shows that the most active hours are morning hours between 10 to 12 and the least active hours are at night.
