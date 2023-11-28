@@ -2,14 +2,14 @@
 
 ### **Problem Statement:**
 
-A dataset is provided for inbound calls received by a company named ABC in past 23 days. The CX team's performance and customer interactions are to be analyzed so that the company can identify areas for improvement, optimize call routing, predict customer behavior, and enhance the overall customer experience.
+A dataset is provided for inbound calls received by a company named ABC in past 23 days. The CX team's performance and customer interactions are to be analyzed so that the company can identify areas for improvement, optimize call routing, predict customer behavior, and enhance the overall customer experience. The main task is to propose a new manpower plan to reduce abandon rate from 30% to 10%.
 
 
 ### **Tools Used:**
 
 Excel, Tableau
 
-### **Insights:**
+### **Analysis:**
 
 1. Average call duration is highest in morning between 10 to 11 but it is lowest in 12 to 1, might be agents are hanging up early due to midday hunger :)
 
